@@ -1,5 +1,5 @@
 #include <stdio.h>//preprocessor directive to include standard input output function header file
-int main(){//main function body start
+int main(){//main function body starts
     
     int a = 9,b = 4, c; //variable declaration and value assignment
     
