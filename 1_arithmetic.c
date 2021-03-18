@@ -1,3 +1,8 @@
+//Author name: Suryansh sharma
+//Creation Date: 16-March-2021
+//Purpose:Program to find Arithmetic operations using addition, subtraction, multiplication and remainder operator
+
+
 #include <stdio.h>//preprocessor directive to include standard input output function header file
 int main(){//main function body starts
     
