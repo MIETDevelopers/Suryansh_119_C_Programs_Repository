@@ -1,3 +1,7 @@
+//Author name: Suryansh sharma
+//Creation Date: 16-March-2021
+//Purpose: Program to find Area and Perimeter of Circle, Square and Rectangle.
+
 #include<stdio.h>//preprocessor directive to include standard input output function header file
 
 int main(){//main function body starts
