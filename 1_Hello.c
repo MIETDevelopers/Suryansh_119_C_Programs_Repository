@@ -1,6 +1,6 @@
 #include<stdio.h>//preprocessor directive to include standard input output function header file
-int main(){//main body start
+int main(){//main function body start
 
 	printf("Hello Word");//printf statment to print "Hello World".
 	return 0;            //return statement
-}//main body ends
+}//main function body ends
