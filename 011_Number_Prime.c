@@ -1,4 +1,4 @@
-//Author name:Suryansh sharma
+//Author name:Suryansh sharma 
 //Creation date: 18-03-2021
 //Purpose: Check if a number is prime or not using while loop
 #include <stdio.h>//Preprocessor directive to include input output function header file
