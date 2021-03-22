@@ -32,6 +32,6 @@ fact = fact * i;  // keeps on multiplying and storing in the value of factorial 
  
     }
  
-    return 0; //Return statement
+    return 0; //Return statement 
  
 }//end of main function body
