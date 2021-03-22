@@ -43,4 +43,4 @@ int main(){//Start of main function body
             printf("Consonant");//Printf function calling to print consonent
     }//End of Switch case body
     return 0;//Return statement
-}//End of the main function body
+}//End of the main function body 
