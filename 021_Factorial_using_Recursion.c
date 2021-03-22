@@ -1,3 +1,6 @@
+//Author Name:Suryansh sharma
+//Creation Date: 20th March 2021
+//Purpose:Factorial using recursion
 #include <stdio.h>//Preprocessive directive to include input output functions header file
  int main(){//Start of the main body function
  
