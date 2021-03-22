@@ -18,4 +18,4 @@ int main(){//main function body starts
     printf("Remainder = %d\n",c);//printf statement to print remainder output
     
     return 0;//return statement
-}//main function body ends
+}//main function body end
