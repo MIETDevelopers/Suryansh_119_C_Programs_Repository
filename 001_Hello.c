@@ -6,4 +6,4 @@ int main(){//main function body start
 
 	printf("Hello Word");//printf statment to print "Hello World".
 	return 0;            //return statement
-}//main function body ends
+}//main function body ends 
