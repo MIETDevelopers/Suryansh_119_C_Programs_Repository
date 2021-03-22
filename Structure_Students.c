@@ -1,5 +1,6 @@
-//Program:store the information of student marks using structures and find total marks of individual student. (Explain)
-
+//Author:Suryansh Sharma
+//creation date:20-03-2021
+//Purpose:store the information of student marks using structures and find total marks of individual student.
 #include <stdio.h>  //Pre-process directive to include standard input and output functions header file
 struct student {//structure body starts
     char name[50];//members name array
