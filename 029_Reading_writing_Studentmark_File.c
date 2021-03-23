@@ -34,4 +34,4 @@ int main() {//start of main function body
 		printf("	Name: %s\n	Roll Number: %d\n	Marks: %d",b[i].name,b[i].RollNo,b[i].Marks); //Printing the entered text.
 	}//end of for loop body
 	fclose(fptr); //Closing the program.
-}//end of main function body
+}//end of main function body 
